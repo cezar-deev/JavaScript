@@ -20,7 +20,7 @@ function verificar(){      //window.alert('Funcionou')//
             genero = 'Mulher' // variavel genero recebe 'Mulher'
         }
         res.style.textAlign = 'center' // centralizando com javascript ao inves de css //
-        res.innerHTML = `Detectamos ${genero} com ${idade} anos` // Escreve na tela ...
+        res.innerHTML = `Detectamos ${genero} com ${idade} anos` // Escreve na tela ....
     }
      
 
